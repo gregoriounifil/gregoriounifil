@@ -1,9 +1,10 @@
 ## Olá, sou Gregório Lotz 👋
 💻 Cursando Ciência da Computação na UNIFIL Londrina 🎓
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gregoriounifil&show_icons=true&theme=dracula" />
-</a>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregoriounifil&theme=algolia&count_private=true" /><br><br>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gregoriounifil&theme=algolia&count_private=true" />
+</p>
 
 ### 🌐 Me encontre em:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff4f5e?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gregoriolotz/)
