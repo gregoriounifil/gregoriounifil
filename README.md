@@ -2,7 +2,7 @@
   <img src="./assets/github-header-banner.png" alt="Hey! I am Fullstack developer" width="100%" />
 </p>
 <div align=center>
-## Olá, sou Gregório Lotz 👋
+ <h1>Olá, sou Gregório Lotz 👋</h1>
 
 💻 Cursando Ciência da Computação na UNIFIL Londrina 🎓
 
