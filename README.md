@@ -1,12 +1,14 @@
 <p align="center">
   <img src="./assets/github-header-banner.png" alt="Hey! I am Fullstack developer" width="100%" />
 </p>
-
+<div align=center>
 ## Olá, sou Gregório Lotz 👋
 
 💻 Cursando Ciência da Computação na UNIFIL Londrina 🎓
 
+
 ---
+</div>
 
 <h3 align="center">📊 GitHub Institucional — gregoriounifil</h3>
 
@@ -22,10 +24,6 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gregoriounifil&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribution%20Graph" alt="Gráfico de atividades do GitHub institucional gregoriounifil" />
-</div>
 
 <h3 align="center">Languages and Tools:</h3>
 
