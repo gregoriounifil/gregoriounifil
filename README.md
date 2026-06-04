@@ -8,8 +8,6 @@
 ---
 </div>
 
-<h3 align="center">📊 GitHub Institucional — gregoriounifil</h3>
-
 <div align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gregoriounifil&theme=tokyonight" alt="Resumo de contribuições do GitHub institucional gregoriounifil" />
 </div>
@@ -61,7 +59,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff4f5e?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gregoriolotz/)
 
 [![Email Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:gregoriolotz@gmail.com)
-
-[![GitHub Institucional](https://img.shields.io/badge/-GitHub%20Institucional-1f6feb?style=flat&logo=github&logoColor=white)](https://github.com/gregoriounifil)
 
 [![GitHub Pessoal](https://img.shields.io/badge/-GitHub%20Pessoal-333333?style=flat&logo=github&logoColor=white)](https://github.com/gregoriolotz)
